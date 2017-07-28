@@ -1,0 +1,8 @@
+prefix=/home/skpeng/startercode5/catkin_ws/devel
+
+Name: motion_planning
+Description: Description of motion_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/skpeng/startercode5/catkin_ws/devel/lib 
+Requires: actionlib control_msgs interactive_markers moveit_commander moveit_msgs rospy sensor_msgs tf visualization_msgs

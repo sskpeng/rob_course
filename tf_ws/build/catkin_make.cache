@@ -1,0 +1,2 @@
+learning_tf
+-DCATKIN_DEVEL_PREFIX=/home/skpeng/tf_ws/devel -DCMAKE_INSTALL_PREFIX=/home/skpeng/tf_ws/install -G Unix Makefiles

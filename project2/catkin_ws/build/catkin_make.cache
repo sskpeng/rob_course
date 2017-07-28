@@ -1,0 +1,2 @@
+marker_publisher:project2_solution
+-DCATKIN_DEVEL_PREFIX=/home/ccc_v1_w_00ea0_41885/asn12663_Vocareum_Proxy_Project_2_-1/asn12664_Project_2/work/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ccc_v1_w_00ea0_41885/asn12663_Vocareum_Proxy_Project_2_-1/asn12664_Project_2/work/catkin_ws/install -G Unix Makefiles

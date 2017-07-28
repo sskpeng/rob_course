@@ -1,0 +1,8 @@
+prefix=/home/ccc_v1_w_00ea0_41885/asn12768_Project_3/asn12769_Project_3/work/catkin_ws/install
+
+Name: lwr_defs
+Description: Description of lwr_defs
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/ccc_v1_w_00ea0_41885/asn12768_Project_3/asn12769_Project_3/work/catkin_ws/install/lib 
+Requires: xacro

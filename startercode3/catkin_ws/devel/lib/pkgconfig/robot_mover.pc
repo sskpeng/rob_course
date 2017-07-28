@@ -1,0 +1,8 @@
+prefix=/home/skpeng/startercode3/catkin_ws/devel
+
+Name: robot_mover
+Description: Description of robot_mover
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/skpeng/startercode3/catkin_ws/devel/lib 
+Requires: 

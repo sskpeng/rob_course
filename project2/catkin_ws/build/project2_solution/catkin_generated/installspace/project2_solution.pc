@@ -1,0 +1,8 @@
+prefix=/home/ccc_v1_w_00ea0_41885/asn12663_Vocareum_Proxy_Project_2_-1/asn12664_Project_2/work/catkin_ws/install
+
+Name: project2_solution
+Description: Description of project2_solution
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ccc_v1_w_00ea0_41885/asn12663_Vocareum_Proxy_Project_2_-1/asn12664_Project_2/work/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+forward_kinematics:lwr_robot/lwr_defs:robot_mover:robot_sim
+-DCATKIN_DEVEL_PREFIX=/home/skpeng/startercode3/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/skpeng/startercode3/catkin_ws/install -G Unix Makefiles

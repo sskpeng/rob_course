@@ -1,0 +1,2 @@
+marker_publisher:project2_solution
+-DCATKIN_DEVEL_PREFIX=/home/skpeng/startercode2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/skpeng/startercode2/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/skpeng/startercode3/catkin_ws/devel
+
+Name: forward_kinematics
+Description: Description of forward_kinematics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/skpeng/startercode3/catkin_ws/devel/lib 
+Requires: rospy sensor_msgs tf urdfdom_py

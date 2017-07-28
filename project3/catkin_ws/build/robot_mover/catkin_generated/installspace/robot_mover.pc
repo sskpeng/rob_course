@@ -1,0 +1,8 @@
+prefix=/home/ccc_v1_w_00ea0_41885/asn12768_Project_3/asn12769_Project_3/work/catkin_ws/install
+
+Name: robot_mover
+Description: Description of robot_mover
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ccc_v1_w_00ea0_41885/asn12768_Project_3/asn12769_Project_3/work/catkin_ws/install/lib 
+Requires: 
